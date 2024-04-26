@@ -1,12 +1,12 @@
 # Portfólio - :briefcase: 
 
-<div style="text-align: justify">
+<p align="justify">
   
-### Olá pessoal como vão? Bom, este é meu mais recente portfólio. Foi criado com o intuito de aplicar minhas habilidades recentes adquiridas e demonstrar para vocês um pouco de conhecimento que tenho. O design foi inspirado em balões, ou seja, cada tópico é como um balão colorido com bordas douradas. Neste portfólio, escrevi um pouco sobre minha personalidade, como também as habilidades e conhecimentos que tenho e projetos que fiz e ainda estou desenvolvendo. São projetos simples, no entanto, com o tempo aperfeiçoarei minhas habilidades para alcançar novos objetivos. O projeto foi desenvolvido em React utilizando a linguagem Javascript junto com a ferramenta Vite para desenvolvimento mais prático. 
+#### Olá pessoal como vão? Bom, este é meu mais recente portfólio. Foi criado com o intuito de aplicar minhas habilidades recentes adquiridas e demonstrar para vocês um pouco de conhecimento que tenho. O design foi inspirado em balões, ou seja, cada tópico é como um balão colorido com bordas douradas. Neste portfólio, escrevi um pouco sobre minha personalidade, como também as habilidades e conhecimentos que tenho e projetos que fiz e ainda estou desenvolvendo. São projetos simples, no entanto, com o tempo aperfeiçoarei minhas habilidades para alcançar novos objetivos. O projeto foi desenvolvido em React utilizando a linguagem Javascript junto com a ferramenta Vite para desenvolvimento mais prático. 
 
-### Aqui está o deploy do site, fique a vontade: https://sparkly-torrone-87e90e.netlify.app/ :grinning:
+#### Aqui está o deploy do site, fique a vontade: https://sparkly-torrone-87e90e.netlify.app/ :grinning:
 
-</div>
+</p>
 
 
 ## Tecnologias usadas:
