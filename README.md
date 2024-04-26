@@ -14,7 +14,6 @@ Foi desenvolvido em React utilizando a ferramenta Vite para desenvolvimento mais
 - [Estrutura de Pastas] - ( Pastas e arquivos organizados para melhor compreensão e código limpo )
 - [Styled Components] - (Para estilização do projeto)
 - [Media Queries] - (Deixando o site mais responsivo)
-- [Eventos] - (Prática de eventos em componentes)
 - [Props] - (Para tornar os cards mais dinâmicos)
 - [etc]
 
