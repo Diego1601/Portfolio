@@ -1,11 +1,20 @@
 import styled from "styled-components";
+import createGlobalStyle from "styled-components";
+
+export const GlobalStyled = createGlobalStyle`
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+`;
 
 export const main = styled.main`
 width: 100%;
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
-`
+`;
 
 //ESTILIZAÇÃO DA SECTION "HEADER" QUE ESTA DENTRO DA SECTION "HOME"
 
@@ -99,7 +108,7 @@ h6 {
     letter-spacing: 18px;
    }
 }
-`
+`;
 
 //ESTILIZAÇÃO DA SECTION "HOME"
 
@@ -187,7 +196,7 @@ a, .imgRedesSociais {
     width: 40%;
    }
 }
-`
+`;
 
 //ESTILIZAÇÃO DA SECTION "SOBRE MIM"
 
@@ -294,7 +303,7 @@ align-items: center;
         }
 }
 }
-`
+`;
 
 //ESTILIZANDO A SEÇÃO HARDSKILLS "SectionHardSkills"
 
@@ -315,8 +324,8 @@ padding: 2vw;
 flex-wrap: wrap;
 
 .titleHardSkills {
-    width: 90%;
-    max-height: 15%;
+    width: 82%;
+    max-height: 25%;
     
     .h3HardSkills {
         font-size: 5vw;
@@ -360,7 +369,7 @@ flex-wrap: wrap;
     flex-wrap: wrap;
     margin-top: 2%;
 }
-`
+`;
 
 export const divCardNivel1 = styled.div`
 width: calc(140px - 50px);
@@ -433,7 +442,7 @@ padding: 2vw;
         max-height: 40px;
     }
 }
-`
+`;
 
 //ESTILIZANDO O COMPONENTE "CardPortfolio"
 
@@ -673,7 +682,7 @@ button:hover {
         }
     }
 }
-`
+`;
 
 //ESTILIZANDO A SEÇÃO DAS TECHS "SectionTechs"
 
@@ -778,7 +787,7 @@ img {
 }
 
 }
-`
+`;
 
 //ESTILIZANDO A SECTION "CONTATO"
 
@@ -972,4 +981,4 @@ padding-top: 2%;
         }
     }
 }
-`
+`;
