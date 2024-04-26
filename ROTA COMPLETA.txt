@@ -1,0 +1,21 @@
+   <BrowserRouter>
+                <nav>
+                    <ul>
+                        <li>
+                            <Link>home</Link>
+                        </li>
+                        <li>
+                            <Link>sobre</Link>
+                        </li>
+                        <li>
+                            <Link>portfolio</Link>
+                        </li>
+                    </ul>
+                </nav>
+            </BrowserRouter>
+
+            <Routes>
+                <Route element={<home/>}/>
+                <Route element={<sobre/>}/>
+                <Route element={<portfolio/>}/>
+            </Routes>
